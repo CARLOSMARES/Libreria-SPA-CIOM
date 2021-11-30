@@ -2,7 +2,7 @@
   "name": "libreria-spa-ciom",
   "version": "0.0.1",
   "description": "Libreria creada en JavaScript para crear pagina Single Page Application o mejor conocias como SPA",
-  "main": "index.js",
+  "main": "src/libreria/libreria.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/CARLOSMARES/Libreria-SPA-CIOM.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "CARLOS IGNACIO OLANO MARES",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/CARLOSMARES/Libreria-SPA-CIOM/issues"
   },
