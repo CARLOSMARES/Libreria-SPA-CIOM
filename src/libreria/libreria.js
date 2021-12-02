@@ -1,8 +1,8 @@
 "use strict";
-function spa (){
+(function (window, document){
     var inicio = function(){
         var elemento = null,
-        arco = null,
+        marco = null,
         rutas = {},
         controladores = {},
         controlador,
@@ -54,8 +54,4 @@ function spa (){
     else{
         console.log("Se Esta llamando la libreria nuevamente");
     }
-};
-
-module.exports(
-    spa
-);
+})(window, document);
