@@ -1,6 +1,6 @@
 {
   "name": "libreria-spa-ciom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Libreria creada en JavaScript para crear pagina Single Page Application o mejor conocias como SPA",
   "main": "libreria.js",
   "scripts": {
